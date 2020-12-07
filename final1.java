@@ -1,4 +1,4 @@
-class reverse
+public class final1
 {
     public static String reverse(String str)
     {
